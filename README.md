@@ -1,7 +1,5 @@
 # Hi there,👋  I’m Shania!
 I'm a tech enthusiast who blends technology with learning.
-### Currently learning: 
--Software Engineering
 ### I’m interested in:
 .Software Development
 .Cybersecurity
