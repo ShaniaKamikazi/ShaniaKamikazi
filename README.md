@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Shania!
-    I'm a tech enthusiast who blends technology with learning.
-I’m interested in Software Development, Cybersecurity, Artificial Intelligence, and Programming Languages.
-I am active on 
+# Hi there,👋  I’m Shania!
+I'm a tech enthusiast who blends technology with learning.
+### Currently learning: 
+-Software Engineering
+### I’m interested in:
+-Software Development
+-Cybersecurity
+-Artificial Intelligence
+-Programming Languages.
+### Connect with me :
+- LinkedIn: (https://www.linkedin.com/in/kamikazi-shania-041715263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
 <!---
