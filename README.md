@@ -8,7 +8,7 @@ I'm a tech enthusiast who blends technology with learning.
 .Artificial Intelligence
 .Programming Languages.
 ### Connect with me :
-- LinkedIn:
+<a href="https://linkedin.com/in/kamikazishania">Linkedin</a>
 
 <!---
 ShaniaKamikazi/ShaniaKamikazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
